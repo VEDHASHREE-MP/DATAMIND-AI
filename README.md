@@ -80,12 +80,6 @@ Open **http://localhost:5173** in your browser.
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots of your app here)*
-
----
-
 ## 📦 Project Structure
 
 ```
